@@ -35,7 +35,7 @@ const Hero = () => {
             </button>
             
             <button className='border border-gray-600 text-white py-4 px-8 font-medium rounded-lg hover:bg-white/5 transition-all duration-300'>
-              View Our Work
+              <a href="#portfolio">View Our Work</a>
             </button>
           </div>
         
