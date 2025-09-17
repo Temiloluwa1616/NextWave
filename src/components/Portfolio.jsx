@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { motion } from 'motion/react'
 import { FaExternalLinkAlt, FaGithub, FaEye, FaReact, FaMobile, FaQrcode, FaFileInvoice, FaCube } from 'react-icons/fa'
-import  Nithub from '../assets/Nithub.jpg'
-import QrCode from '../assets/QrCode.jpg'
+import  Nithub from '../assets/Nithub.JPG'
+import QrCode from '../assets/QrCode.JPG'
 import EduPro from '../assets/EduPro.png'
 import Invoice from '../assets/InvoiceApp.png'
 
