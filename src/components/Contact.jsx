@@ -285,7 +285,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email Us</h3>
                     <a href="mailto:your.email@nextwave.com.ng" className="text-blue-600 hover:text-blue-800 transition-colors duration-300">
-                      your.email@nextwave.com.ng
+                      nextwavedigitalofficial@gmail.com
                     </a>
                   </div>
                 </div>
@@ -303,7 +303,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Call Us</h3>
                     <a href="tel:+234XXXXXXXXX" className="text-green-600 hover:text-green-800 transition-colors duration-300">
-                      +234 XXX XXX XXXX
+                      +234 703 986 4624
+                      +234 803 300 1616
                     </a>
                   </div>
                 </div>
